@@ -1,3 +1,11 @@
+# Hemant's First CS193 Homework
+
+### My favorite things about CS193
+
+My favorite things include:
+- The ability to learn from other CS majors about how they are going about completing their majors
+- The class isn't hard, but it is very helpful!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
