@@ -4,7 +4,9 @@
 
 My favorite things include:
 - The ability to learn from other CS majors about how they are going about completing their majors
+- The class gives us tools that we may eventually use in CS - it should prepare us well for the future
 - The class isn't hard, but it is very helpful!
+
 
 ## Welcome to GitHub Pages
 
